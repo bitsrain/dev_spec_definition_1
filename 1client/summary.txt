@@ -1,0 +1,15 @@
+1. Appbar
+	which item goes to where: will provide later along with freelancer's counterpart
+2. Finance
+	No money-filled client account, cannot get this until such account is prepared. (preparing)
+3. Dashbaord
+4. Contract
+	No money-filled client account, cannot get this until such account is prepared. (preparing)
+5. Account page
+	Client accounts don't have account/profile page. Only settings page exists
+6. Job review before posting -> job post references
+7. Transaction history -> client combobox (this is actually for freelancer)
+8. Posted job detail -> Hire
+	No money-filled client account, cannot get this until such account is prepared. (preparing)
+9. Settings
+	

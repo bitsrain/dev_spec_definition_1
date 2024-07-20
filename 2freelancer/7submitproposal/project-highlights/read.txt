@@ -1,0 +1,7 @@
+As you could see, there are 3 types of highlights.
+1. Add Upwork job
+	you can choose an item from your job history, when clicked, the modal opens with "Upwork jobs" tab initially selected
+2. Add Portfolio project
+	you can choose an item from your portfolio, when clicked, the modal opens with "Portfolio" tab initially selected
+3. Add certification
+	similar to above two. Don't have valid certifications, couldn't collect further.

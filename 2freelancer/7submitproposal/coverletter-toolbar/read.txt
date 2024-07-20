@@ -1,0 +1,4 @@
+this is AI-driven feature.
+You start typing, the percentage bar fills up as you type.
+You reach 100% in that percentage bar, "Get Tips" button gets enabled.
+You click on the button, the topbar switches to tips nav.

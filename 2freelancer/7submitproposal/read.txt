@@ -1,0 +1,8 @@
+click "View job posting"
+	goes to job details page (already provided)
+click Terms -> Learn more
+	leads to Upwork blog article (outside of Upwork)
+click Terms -> Upgrade plan
+	leads to Settings/membership & connects page (already provided)
+create specialized profile
+	this is a big feature, will take time to collect the flow. will provide later

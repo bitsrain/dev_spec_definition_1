@@ -1,0 +1,3 @@
+no special UI/modal when clicked on “Upload" or drag-n-dropped, just the common behavior that you all are familiar with.
+Upload link -> file selector modal (system default)
+Drag-n-drop -> progress bar (refer to portfolio upload screen's progress bar)

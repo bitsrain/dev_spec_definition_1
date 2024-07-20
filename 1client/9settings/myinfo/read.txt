@@ -1,0 +1,2 @@
+Create new account: Cannot test this feature 'cause of account risks. Got killed several times by Upwork.
+Transfer ownership: Team member / co-worker feature couldn't be tested. These roles include creation of email accounts, new upwork accounts, and we need to know how they affect freelancers - and freelancer accounts cannot get such opportunities as we have to wait for such client to hire us. Haven't experienced any clients with co-workers or team members yet, and not sure if we could get such opportunity soon.

@@ -1,0 +1,2 @@
+when clicked use_my_profile_address, the fields were auto-filled with the address from my info.
+when clicked use_my_billing_address, the fields should be auto-filled with the bank account address that is connected, but we cannot get such account.

@@ -1,0 +1,14 @@
+1. Appbar Menu
+	Will provide later along with clients' counterpart
+2. My proposals
+	Offers, invitations to interview: need to wait until we get such situations that we get an offer or an invitation (waiting)
+        Referrals: cannot get this until we get some referrals, almost sure this won't happen very soon. Haven't experienced any till date.
+3. My profile
+4. Skills test
+	Upwork skills tests are retired. The concept no longer exists. (I think 'cause of AI-yielding scammers answering all questions 100% rigt)
+5. Messages
+	Will provide later, need some time to collect info
+6. View Proposal
+	same situation with 2. My proposals
+7. Submit Proposal
+8. Ended contract

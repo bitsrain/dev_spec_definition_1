@@ -1,0 +1,1 @@
+Show details btns don't open a modal. They expand/shrink the content shown.

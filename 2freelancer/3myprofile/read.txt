@@ -1,0 +1,9 @@
+verify:
+	- phone number: automatically checked when you do phone verification (SMS)
+        - ID: automatically checked when you finish verification (verification process cannot be collected, 'cause it's done by foreign guys, not by us)
+	- veteran: provided screenshot, not sure how this works, cannot test.
+
+license:
+	- I have no valid license, cannot test further
+video introduction:
+	- Youtube banned here, and it'd put account on a big risk. Can't proceed further. Provided other guys' profile status when added the video introduction instead. Again, Youtube banned, cannot provide the screenshot when clicked on the video thumbnail.
